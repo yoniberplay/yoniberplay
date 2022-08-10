@@ -12,9 +12,7 @@ I'm Sofware Student, I like to experiment, learn and design new things, I'm alwa
 ![icons8-html-5-32](https://user-images.githubusercontent.com/36041729/183787285-6043ca90-6c5f-49c4-8edf-fe9d28ad37ab.png)
 ![icons8-css3-32](https://user-images.githubusercontent.com/36041729/183787289-2695b688-a229-4ff8-95a8-20652e1c3a71.png)
 
-
 - 🌱 I’m currently learning :![icons8-spring-logo-32](https://user-images.githubusercontent.com/36041729/183786518-7e904e93-df1f-48b4-9549-5092b7af4d56.png)
-
 - 👯 I’m looking to collaborate on : "Everyone 🧑‍🚀"
 - 💬 Ask me about : "Things i know 😄"
 
@@ -22,9 +20,9 @@ I'm Sofware Student, I like to experiment, learn and design new things, I'm alwa
 
 ### My social networks 🌎
 
-[<img align="left" alt="Christopher | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" />][linkedin]
-[<img align="left" alt="Christopher | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" />][instagram]
-[<img align="left" alt="Christopher | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />][facebook]
+[<img align="left" alt="YONIBER | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" />][linkedin]
+[<img align="left" alt="YONIBER | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png" />][instagram]
+[<img align="left" alt="YONIBER | LinkedIn" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />][facebook]
 
 <br/>
 
