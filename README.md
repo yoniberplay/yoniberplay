@@ -3,11 +3,12 @@ Yoniber Encarnacion  | 🧑🏽‍💻 Sofware Student.
 ![image](https://user-images.githubusercontent.com/36041729/183783777-b832cc7f-53dd-4679-b232-6a21e085c700.png)
 ### About Me 🙋‍♂️
 
-Hi, I'm Christopher Montero, I'm a web developer and I like to experiment and learn new things, I'm always doing something or learning. Go through my repositories and enjoy, bay.
+I'm Sofware Student, I like to experiment, learn and desgin new things, I'm always doing something or learning. Go through my repositories and enjoy, bay.
 
 ---
+![java_logo_icon_168609](https://user-images.githubusercontent.com/36041729/183784220-6775e26d-7996-4030-ac2b-4ebe036a4d04.png)
 
-- 🔭 I’m currently working on : <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+- 🔭 I’m currently working on : <img src="[https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white](https://user-images.githubusercontent.com/36041729/183784220-6775e26d-7996-4030-ac2b-4ebe036a4d04.png)"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 - 🌱 I’m currently learning : <img src="http://img.shields.io/badge/Cloud%20Services-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 - 👯 I’m looking to collaborate on : "Everyone 🧑‍🚀"
 - 💬 Ask me about : "Things i know 😄"
