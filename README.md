@@ -1,4 +1,4 @@
-Yoniber Encarnacion  | Sofware Student 📱🧑🏽‍💻 👨‍🎓
+Yoniber Encarnacion  | Sofware developer 📱🧑🏽‍💻 👨‍🎓
 
 ![image](https://user-images.githubusercontent.com/36041729/183783777-b832cc7f-53dd-4679-b232-6a21e085c700.png)
 ### About Me 🙋‍♂️
