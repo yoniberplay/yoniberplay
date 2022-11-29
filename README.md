@@ -7,12 +7,18 @@ I'm Sofware Student, I like to experiment, learn and design new things, I'm alwa
 
 ---
 - 🔭 I’m currently working on : ![java_22523](https://user-images.githubusercontent.com/36041729/183785441-bed12882-d054-4d72-bdb4-d980179e60a7.png)
+![icons8-java-eclipse-32](https://user-images.githubusercontent.com/36041729/204611242-8e234b67-bf0d-4aab-9ff4-95f992fb948b.png)
 ![icons8-c-sharp-logo-2-32](https://user-images.githubusercontent.com/36041729/183786305-fe88bf3e-d248-41a7-aad4-a93e7b9adc99.png)
-![python_18894](https://user-images.githubusercontent.com/36041729/183785564-fd4250c1-393d-4f4d-9571-5249afce040f.png)
+![icons8-visual-studio-32](https://user-images.githubusercontent.com/36041729/204607380-275f92dd-7f04-4165-97c3-d60bc1bb5ba3.png)
+![icons8- net-framework-32](https://user-images.githubusercontent.com/36041729/204611163-722569c7-d659-4db0-9c54-75c64f9145e6.png)
+![icons8-bootstrap-32](https://user-images.githubusercontent.com/36041729/204608472-713670e3-0d30-4b81-9aa7-12b1e92fd65f.png)
 ![icons8-html-5-32](https://user-images.githubusercontent.com/36041729/183787285-6043ca90-6c5f-49c4-8edf-fe9d28ad37ab.png)
 ![icons8-css3-32](https://user-images.githubusercontent.com/36041729/183787289-2695b688-a229-4ff8-95a8-20652e1c3a71.png)
+![python_18894](https://user-images.githubusercontent.com/36041729/183785564-fd4250c1-393d-4f4d-9571-5249afce040f.png)
 
 - 🌱 I’m currently learning :![icons8-spring-logo-32](https://user-images.githubusercontent.com/36041729/183786518-7e904e93-df1f-48b4-9549-5092b7af4d56.png)
+
+
 - 👯 I’m looking to collaborate on : "Everyone 🧑‍🚀"
 - 💬 Ask me about : "Things i know 😄"
 
